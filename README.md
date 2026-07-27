@@ -1,6 +1,6 @@
 # Hi, I'm Farzad Rahmani
 
-**Software Engineering Student · Python Developer · Machine Learning Enthusiast**
+**Software Engineering Student | Python Developer | Machine Learning Enthusiast**
 
 I’m a Software Engineering student at Cyprus International University who enjoys building things that actually work, not just sit in notebooks. I mainly work with Python and have been building machine learning pipelines and software applications using tools like Scikit-learn, Pandas, and SMOTE to handle real-world data challenges.
 
